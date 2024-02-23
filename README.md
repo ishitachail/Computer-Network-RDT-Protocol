@@ -1,6 +1,6 @@
 # Computer-Network-RDT-Protocol
 
-There are four protocols: Protocol_rdt2, Protocol_rdt22, Protocol_rdt3, Protocol_rdt31
+There are three protocols: Protocol_rdt2, Protocol_rdt22, Protocol_rdt3
 
 
 The file Channel.py implements a model for an unreliable channel over which packets can be corrupted or lost. This model has the following parameters: Pc: The probability of a packet being corrupted, Pl: The probability of a packet being lost, Delay: The time it takes for a packet to travel over the channel and reach the receiver.
